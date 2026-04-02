@@ -5,3 +5,4 @@
 - **[2026-04-01 17:56:59]** (3) fix(keychain): resolve iOS keychain item accessibility flags
 - **[2026-04-02 10:29:26]** (4) ui(prompt): design native biometric verification fallback prompt
 - **[2026-04-02 13:46:49]** (5) test(security): mock biometric hardware states in test runner
+- **[2026-04-02 16:03:12]** (6) refactor(service): streamline hardware capability detection
