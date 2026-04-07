@@ -21,3 +21,4 @@
 - **[2026-04-06 16:31:04]** (19) test(security): mock biometric hardware states in test runner
 - **[2026-04-06 19:48:27]** (20) refactor(service): streamline hardware capability detection
 - **[2026-04-07 11:04:31]** (21) docs(security): document OWASP mobile data storage compliance
+- **[2026-04-07 14:21:54]** (22) feat(auth): integrate local_auth for FaceID and TouchID
