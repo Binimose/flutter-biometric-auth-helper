@@ -22,3 +22,4 @@
 - **[2026-04-06 19:48:27]** (20) refactor(service): streamline hardware capability detection
 - **[2026-04-07 11:04:31]** (21) docs(security): document OWASP mobile data storage compliance
 - **[2026-04-07 14:21:54]** (22) feat(auth): integrate local_auth for FaceID and TouchID
+- **[2026-04-07 17:38:17]** (23) security(keystore): encrypt session tokens in Android Keystore
