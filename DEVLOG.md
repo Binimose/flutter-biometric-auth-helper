@@ -45,3 +45,4 @@
 - **[2026-04-13 17:20:35]** (43) feat(auth): integrate local_auth for FaceID and TouchID
 - **[2026-04-14 10:53:02]** (44) security(keystore): encrypt session tokens in Android Keystore
 - **[2026-04-14 13:10:25]** (45) fix(keychain): resolve iOS keychain item accessibility flags
+- **[2026-04-14 16:27:48]** (46) ui(prompt): design native biometric verification fallback prompt
