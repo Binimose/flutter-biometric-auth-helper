@@ -60,3 +60,4 @@
 - **[2026-04-18 13:38:17]** (58) security(keystore): encrypt session tokens in Android Keystore
 - **[2026-04-18 16:55:40]** (59) fix(keychain): resolve iOS keychain item accessibility flags
 - **[2026-04-18 19:12:03]** (60) ui(prompt): design native biometric verification fallback prompt
+- **[2026-04-19 11:28:07]** (61) test(security): mock biometric hardware states in test runner
