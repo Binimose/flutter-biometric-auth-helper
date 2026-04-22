@@ -72,3 +72,4 @@
 - **[2026-04-21 20:33:42]** (70) docs(security): document OWASP mobile data storage compliance
 - **[2026-04-22 10:49:46]** (71) feat(auth): integrate local_auth for FaceID and TouchID
 - **[2026-04-22 13:06:09]** (72) security(keystore): encrypt session tokens in Android Keystore
+- **[2026-04-22 16:23:32]** (73) fix(keychain): resolve iOS keychain item accessibility flags
