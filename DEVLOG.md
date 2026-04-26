@@ -83,3 +83,4 @@
 - **[2026-04-25 11:10:25]** (81) ui(prompt): design native biometric verification fallback prompt
 - **[2026-04-25 14:27:48]** (82) test(security): mock biometric hardware states in test runner
 - **[2026-04-25 17:44:11]** (83) refactor(service): streamline hardware capability detection
+- **[2026-04-26 10:17:38]** (84) docs(security): document OWASP mobile data storage compliance
